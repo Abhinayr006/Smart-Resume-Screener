@@ -1,0 +1,4 @@
+[server]
+headless = true           # Run Streamlit without opening a browser
+enableCORS = true         # Keep CORS protection enabled (recommended)
+enableXsrfProtection = true  # Keep XSRF protection for security
