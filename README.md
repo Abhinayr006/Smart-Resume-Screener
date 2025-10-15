@@ -1,6 +1,8 @@
 # Smart Resume Screener
 
 An AI-powered resume ranking application built with Streamlit, leveraging SBERT (Sentence-BERT) for semantic matching to compare resumes against job descriptions. Optionally integrates OpenAI's GPT for advanced scoring and justifications.
+<img width="1920" height="1080" alt="Demo SS2" src="https://github.com/user-attachments/assets/bd1fe049-e189-4cf0-835a-967385866a9a" />
+<img width="1920" height="1080" alt="Demo SS1" src="https://github.com/user-attachments/assets/5019f859-a79b-46c3-a5e6-83eeeb3c0f37" />
 
 ## Features
 
